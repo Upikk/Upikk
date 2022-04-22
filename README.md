@@ -1,5 +1,8 @@
-### Ayo, i'm [Upik][website]
+### Ayo, i'm [Upik]
 
-### JALLA
+### 📕 My latest Repos
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://upikk.tk
