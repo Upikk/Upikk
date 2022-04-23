@@ -1,8 +1,6 @@
 <h1 align="center">Siemano 👋, Jestem Upik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upikk&label=Profile%20views&color=0e75b6&style=flat" alt="upikk" /> </p>
 
-- 🔭 Aktualnie pracuję nad **Jakiś Fivem Script**
-
 - 🌱 Aktualnie uczę się **TypeScript**
 
 - 📫 Napisz do mnie! **Discord: Upik#0001**
