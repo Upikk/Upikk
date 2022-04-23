@@ -1,5 +1,5 @@
 <h1 align="center">Siemano 👋, Jestem Upik</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upikk&label=Profile%20views&color=0e75b6&style=flat" alt="upikk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=upikk&label=Wyświetlenia%20Profilu&color=0e75b6&style=flat" alt="upikk" /> </p>
 
 - 🌱 Aktualnie uczę się **TypeScript**
 
